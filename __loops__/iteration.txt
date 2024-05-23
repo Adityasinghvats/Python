@@ -1,0 +1,5 @@
+Iteration tools
+(for , comprehension , map)
+Iterable objects
+(list, file,dictionary )
+__next__

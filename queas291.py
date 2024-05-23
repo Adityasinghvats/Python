@@ -1,0 +1,8 @@
+window = set()
+window.add(1)
+window.add(2)
+window.remove(1)
+window.add(3)
+window.remove(2)
+window.add(1)
+print(window)
