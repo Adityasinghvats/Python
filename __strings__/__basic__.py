@@ -33,6 +33,7 @@
 # >>> chai
 # 'Masala Chai'
 # >>> print
+
 # <built-in function print>
 # >>> print(chai.lower())
 # masala chai
@@ -40,14 +41,17 @@
 # MASALA CHAI
 # >>> chai
 # 'Masala Chai'
+
 # >>> chai = "    Masala Chai     "
 # >>> chai
 # '\tMasala Chai\t'
 # >>> print(chai.strip())
 # Masala Chai
+
 # >>> chai = "Lemon Chai"
 # >>> print(chai.replace("Lemon", "ginger"))
 # ginger Chai
+
 # >>> chai = "Lemon , Ginger, Masala, Mint"
 # >>> print(chai.split(", "))
 # ['Lemon ,Ginger ,Masala', 'Mint']
