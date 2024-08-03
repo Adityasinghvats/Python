@@ -1,6 +1,6 @@
 1. pip install virtualenv
 2. always update python and  pip
-3. virtualenv <.name>
+3. virtualenv <name>
 4. python -m venv <name>
 5. .\env_name\Scripts\activate
 
@@ -11,3 +11,13 @@ so first change execution policy by running in andministrator mode
 Get message policy set to RemoteSigned
 
 pip list -> to get all the name of packages
+
+
+To generate all pip install names at one place
+  pip list > requirements.txt 
+To install requirements
+  pip install -r requirements.txt
+
+After deleting a package agaain repeat setp to generate
+
+decativate
