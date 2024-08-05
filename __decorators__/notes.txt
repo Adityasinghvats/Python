@@ -1,0 +1,9 @@
+Decorators are like a toll booth
+Higher order functions
+*args -> unlimited arguments as input
+**kwargs -> key value pair arguments, named parameters
+def -> definiton
+
+function can be stored inside a variable and passed as an arguement just like Higher order function in Kotlin.
+
+Q2. Print the name of funtion and arguements
